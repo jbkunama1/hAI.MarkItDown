@@ -1,0 +1,17 @@
+version: "3.9"
+
+services:
+  markitdown-webui:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: markitdown-webui
+    restart: unless-stopped
+    ports:
+      - "3210:3210"
+    networks:
+      - highfishNetwork
+
+networks:
+  highfishNetwork:
+    external: true
