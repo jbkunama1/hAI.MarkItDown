@@ -1,3 +1,5 @@
+[<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" width="120" height="28" alt="Buy me a coffee">](https://www.buymeacoffee.com/highfish)
+
 # 🚀 MarkItDown WebUI for Portainer
 
 > Eine kleine, self-hosted **Weboberfläche für Microsoft MarkItDown** – gebaut für den Einsatz im **LAN** mit **Portainer**, **Docker Compose** und **Port 3210**. [cite:23][cite:43]
