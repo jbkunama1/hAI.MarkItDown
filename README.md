@@ -4,10 +4,10 @@
 
 > Eine kleine, self-hosted **Weboberfläche für Microsoft MarkItDown** – gebaut für den Einsatz im **LAN** mit **Portainer**, **Docker Compose** und **Port 3210**. [cite:23][cite:43]
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-WebUI-009688?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-Portainer-2496ED?style=for-the-badge&logo=docker)
-![Port](https://img.shields.io/badge/Port-3210-orange?style=for-the-badge)
+[![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)](https://github.com/jbkunama1/hAI.MarkItDown)
+[![FastAPI](https://img.shields.io/badge/FastAPI-WebUI-009688?style=for-the-badge&logo=fastapi)](https://github.com/jbkunama1/hAI.MarkItDown)
+[![Docker](https://img.shields.io/badge/Docker-Portainer-2496ED?style=for-the-badge&logo=docker)](https://github.com/jbkunama1/hAI.MarkItDown)
+[![Port](https://img.shields.io/badge/Port-3210-orange?style=for-the-badge)](https://github.com/jbkunama1/hAI.MarkItDown)
 
 ---
 
